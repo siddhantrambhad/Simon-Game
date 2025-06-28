@@ -2,7 +2,8 @@
 
 A basic memory game built using **HTML**, **CSS**, and **JavaScript**.
 
-![Simon Game Screenshot](./screenshot.png) <!-- Replace with your actual image path -->
+![Simon Game Screenshot](./simon%20game%20screenshot.png)
+<!-- Replace with your actual image path -->
 
 ## 🧠 About the Game
 
